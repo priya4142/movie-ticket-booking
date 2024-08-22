@@ -1,4 +1,5 @@
 Movie Ticket Booking using HTML, CSS & JS
+
 Project Breakdown
 Display UI with movie select, screen, seats, legend & seat info
 User can select a movie/price
